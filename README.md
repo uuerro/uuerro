@@ -7,7 +7,7 @@
 📍 Chicago → Charleston (soon)
 
 ## What I'm working on
-- Jarvis — a personal security AI for log analysis and threat detection
+- uero — a personal security AI for log analysis and threat detection
 - Port scanner built from scratch in Python
 - Home lab: WSL + Kali, network analysis, SQL threat hunting
 
