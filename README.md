@@ -1,16 +1,18 @@
-## Hi there 👋
+## # Hey, I'm Chris 👋
 
-<!--
-**uuerro/uuerro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring SOC Analyst & Detection Engineer
+🎓 Google Cybersecurity Certificate 
+📚 CompTIA Security+/CYSA+ (next targets)
+🛠️ Building security tools in Python
+📍 Chicago → Charleston (soon)
 
-Here are some ideas to get you started:
+## What I'm working on
+- Jarvis — a personal security AI for log analysis and threat detection
+- Port scanner built from scratch in Python
+- Home lab: WSL + Kali, network analysis, SQL threat hunting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills developing
+`Python` `Linux` `SQL` `Network Analysis` `Threat Detection` `Log Analysis` `SIEM`
+
+## Connect
+Open to entry-level SOC opportunities 
